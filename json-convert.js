@@ -36,6 +36,3 @@ valueConverted = JSON.parse(value);
 console.log(valueConverted);
 
 
-
-
-// outPut: 18+ he can drive. 
